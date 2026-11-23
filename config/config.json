@@ -1,0 +1,12 @@
+{
+  "allowlisted_domains": ["localhost", "127.0.0.1"],
+  "target": "http://localhost:8080",
+  "otp_endpoint": "",
+  "verify_endpoint": "",
+  "timeout_seconds": 10,
+  "max_requests": 200,
+  "requests_per_second": 5,
+  "user_agent": "otpsec/1.0 (authorized-security-testing)",
+  "report_dir": "reports",
+  "verbose": false
+}
